@@ -5,6 +5,8 @@ GNA is used to generate a number at interval of 0, 1. If you whant, the multipli
 FGVA is used to call GNA and set a seed.
 All the distribuction have your own function that call's FGVA and generate the due value
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Este diretório é para armazenar um projeto projetado para simular uma fila na distribuição exponencial, uniforme e discreta. Este projeto contém seu próprio GNA e FGVA.
 Para criar este projeto, programa em duas linguagens, Python e Java Script.
 
